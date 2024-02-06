@@ -1,4 +1,4 @@
-### Eu sou o Samuel Luna 🧑‍💻
+### Plá, eu sou o Samuel Luna 🧑‍💻
 Sou formado em Sistemas de Informação pela Unifacisa e estusiasta da tecnologia
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelluna-fe/)
