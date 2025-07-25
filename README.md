@@ -1,5 +1,5 @@
 ### Olá, eu sou o Samuel Luna 🧑‍💻
-Sou formado em Sistemas de Informação pela Unifacisa e entusiasta da tecnologia
+Sou formado em Sistemas de Informação pela Unifacisa e engenheiro de dados.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelluna-fe/)
 
@@ -10,7 +10,7 @@ Sou formado em Sistemas de Informação pela Unifacisa e entusiasta da tecnologi
 ## Tecnologias que uso no meu dia-a-dia:
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/PySpark-3.5.0-orange" />
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
